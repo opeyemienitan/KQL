@@ -48,7 +48,7 @@ Create a new branch
 
 Submit a pull request (PR) with your query and a short description of its use case
 
-Contribution Guidelines
+**Contribution Guidelines**
 
 Ensure the query is tested and functional.
 
