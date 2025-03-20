@@ -1,0 +1,5 @@
+EmailEvents
+| where TimeGenerated > ago(30d)
+| where SenderMailFromAddress == "Enter email of sender"
+| project RecipientEmailAddress, SenderFromAddress, TimeGenerated
+| where RecipientEmailAddress !contains "add a desired domain to exclude from the result"
