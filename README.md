@@ -1,10 +1,10 @@
-Security KQL Queries Repository
+**Security KQL Queries Repository**
 
-Overview
+**Overview**
 
 This repository contains a collection of Kusto Query Language (KQL) queries used for security investigations, monitoring, and threat detection. These queries have been developed and refined through real-world use in security operations, focusing on Microsoft Defender Advanced Hunting, Sentinel, and other security tools that leverage KQL.
 
-Purpose
+**Purpose**
 
 The primary goal of this repository is to:
 
@@ -14,7 +14,7 @@ Help security professionals detect threats, analyze logs, and automate monitorin
 
 Encourage collaboration and contributions from the security community to enhance detection capabilities.
 
-Query Categories
+**Query Categories**
 
 The repository includes queries for:
 
@@ -28,7 +28,7 @@ User & Entity Behavior Analytics (UEBA): Monitoring unusual user and system beha
 
 Compliance & Auditing: Checking system configurations and compliance with security policies.
 
-How to Use
+**How to Use**
 
 Clone the repository or download the queries.
 
@@ -38,7 +38,7 @@ Copy the query and run it in Microsoft Defender Advanced Hunting, Azure Sentinel
 
 Modify parameters as needed to fit your environment.
 
-Contributions
+**Contributions**
 
 Contributions are welcome! If you have useful security KQL queries, feel free to:
 
@@ -58,13 +58,13 @@ Include any necessary filters or tunings for false positive reduction.
 
 Use clear naming conventions for query files.
 
-License
+**License**
 
 This repository is shared under the MIT License, allowing security professionals to freely use, modify, and contribute to the repository.
 
-Contact & Discussions
+**Contact & Discussions**
 
 For discussions, feature requests, or questions, feel free to open an issue or start a discussion in the repository.
 
-Let's build a strong community of security professionals sharing KQL knowledge!
+**Let's build a strong community of security professionals sharing KQL knowledge!**
 
